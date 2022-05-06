@@ -6,3 +6,4 @@
 5. Quiche
 6. Steak
 7. Schnitzelsemmel
+8. Pasta
