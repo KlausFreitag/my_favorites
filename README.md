@@ -4,3 +4,5 @@
 3. Spaghetti
 4. Schnitzel
 5. Quiche
+6. Steak
+7. Schnitzelsemmel
